@@ -1,0 +1,6 @@
+litestar[standard]
+granian
+sqlalchemy
+asyncpg
+pydantic-settings
+uvloop; sys_platform != 'win32'
